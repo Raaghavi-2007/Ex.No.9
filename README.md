@@ -43,6 +43,16 @@ Tools/LLMs for Video Generation:
 5.	Iterate and Adjust: If the initial result isn't quite right, adjust the prompt further based on the differences observed between the generated and original Video.
 6.	Save and Document: Save the generated Video and document your prompt alongside any observations on how the output compares to the original.
 
+## Tools for Video Generation:
+Runway Gen-2: A popular model for generating videos from text descriptions, known for producing high-quality video outputs.
+Website: Runway Gen-2
+Synthesia: A platform for creating AI-generated videos with avatars and customizable scripts.
+Website: Synthesia
+Pictory: A tool that helps in transforming text-based content (like articles or blog posts) into videos.
+Website: Pictory
+DeepBrain: AI that can generate videos based on textual prompts, including lip-syncing and facial expressions.
+Website: DeepBrain
+
 # Deliverables:
 1.	The Original Video: Provided Video for reference.
 2.	The Final Generated Video: The Video created using your refined prompt.
