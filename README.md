@@ -60,8 +60,6 @@ The refined prompt was used in AI video generation tools such as:
 
 The generated video successfully recreated the futuristic cyberpunk atmosphere of the original video. The neon lighting, reflections on wet roads, and skyscraper designs closely matched the reference. Flying vehicle movements and cinematic camera effects enhanced realism. Minor differences were observed in advertisement details and crowd density. Additional prompt refinements improved lighting consistency and environmental depth.
 
----
-
 # Tools/LLMs for Video Generation:
 
 ●	DALL·E (by OpenAI): A text-to-Video generation tool capable of creating detailed Videos from textual prompts.
@@ -71,6 +69,7 @@ The generated video successfully recreated the futuristic cyberpunk atmosphere o
 ●	MidJourney: A popular AI tool for generating visually striking and creative Videos based on text descriptions.
 ○	Website: MidJourney
 
+---
 # Instructions:
 
 1.	Examine the Given Video: Study the Video to understand its key features—objects, colors, lighting, composition, and any stylistic choices.
