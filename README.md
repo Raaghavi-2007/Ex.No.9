@@ -8,60 +8,28 @@ To demonstrate the ability of text-to-Video generation tools to reproduce an exi
 
 # Procedure:
 
-### 1. Analyze the Generated Video:
-
-The video contains:
-
-* Tall futuristic skyscrapers
-* Neon blue and pink lights
-* Flying vehicles moving between buildings
-* Wet roads reflecting city lights
-* Rainy cyberpunk atmosphere
-* Cinematic camera movement
-* Dark nighttime environment with glowing advertisements
-
----
-
-## 2. Create the Basic Prompt:
-
-“A futuristic city with neon lights at night.”
-
----
-
-## 3. Refine the Prompt with More Detail:
-
-“A cyberpunk futuristic city at night with glowing neon signs, flying cars, rain-soaked streets reflecting colorful lights, tall skyscrapers, and cinematic lighting.”
-
----
-
-## 4. Identify Style and Artistic Influences:
-
-“A realistic cyberpunk-style futuristic city inspired by sci-fi movies, featuring neon lighting, cinematic visuals, atmospheric rain, and detailed urban environments.”
-
----
-
-## 5. Adjust and Fine-tune:
-
-“A highly detailed cyberpunk futuristic city at night with massive illuminated skyscrapers, holographic advertisements, neon blue and pink lighting, flying vehicles moving through the skyline, rain-covered streets reflecting colorful lights, cinematic camera motion, realistic textures, atmospheric fog, dramatic shadows, ultra-HD quality, realistic sci-fi movie style.”
-
----
-
-## 6. Generate the Video:
-
-The refined prompt was used in AI video generation tools such as:
-
-* DALL·E
-* Stable Diffusion
-* MidJourney
-
----
-
-## 7. Compare the Generated Video with the Original:
-
-The generated video successfully recreated the futuristic cyberpunk atmosphere of the original video. The neon lighting, reflections on wet roads, and skyscraper designs closely matched the reference. Flying vehicle movements and cinematic camera effects enhanced realism. Minor differences were observed in advertisement details and crowd density. Additional prompt refinements improved lighting consistency and environmental depth.
-
-# Tools/LLMs for Video Generation:
-
+1.	Analyze the Generated Video:
+○	Examine the Video carefully, noting key elements such as:
+■	Objects/Subjects (e.g., people, animals, objects)
+■	Colors (e.g., dominant hues, contrasts)
+■	Textures (e.g., smooth, rough, glossy)
+■	Lighting (e.g., bright, dim, shadows)
+■	Background (e.g., outdoor, indoor, simple, detailed)
+■	Composition (e.g., focal points, perspective)
+■	Style (e.g., realistic, artistic, cartoonish)
+2.	Create the Basic Prompt:
+○	Write an initial, simple description of the Video. For example, if the Video shows a landscape, the prompt could be "A serene landscape with mountains and a river."
+3.	Refine the Prompt with More Detail:
+○	Add specific details such as colors, mood, and time of day. For example: "A serene landscape during sunset with purple mountains, a calm river reflecting the colors of the sky, and a few trees along the shore."
+4.	Identify Style and Artistic Influences:
+○	If the Video has a particular style (e.g., impressionist painting, realistic photography, minimalistic), include that in the prompt. For example: "A serene landscape in the style of a watercolor painting with soft, blended colors."
+5.	Adjust and Fine-tune:
+○	Refine the prompt further by adding specific instructions about elements like textures, weather conditions, or any other distinctive features in the Video. For example: "A serene landscape during sunset with purple mountains, a calm river reflecting the colors of the sky, a few trees along the shore, and soft, pastel tones in the clouds."
+6.	Generate the Video:
+○	Use the crafted prompt to generate the Video in a text-to-Video model (e.g., DALL·E, Stable Diffusion, MidJourney).
+7.	Compare the Generated Video with the Original:
+○	Assess how closely the generated Video matches the original in terms of colors, composition, subject, and style. Note the differences and refine the prompt if necessary.
+Tools/LLMs for Video Generation:
 ●	DALL·E (by OpenAI): A text-to-Video generation tool capable of creating detailed Videos from textual prompts.
 ○	Website: DALL·E
 ●	Stable Diffusion: An open-source model for generating Videos from text prompts, known for its flexibility and customizable outputs.
@@ -69,7 +37,6 @@ The generated video successfully recreated the futuristic cyberpunk atmosphere o
 ●	MidJourney: A popular AI tool for generating visually striking and creative Videos based on text descriptions.
 ○	Website: MidJourney
 
----
 # Instructions:
 
 1.	Examine the Given Video: Study the Video to understand its key features—objects, colors, lighting, composition, and any stylistic choices.
