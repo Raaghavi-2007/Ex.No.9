@@ -108,6 +108,12 @@ A sunset over the ocean with waves gently moving toward the shore.
 
 ## Output Characteristics (Video 1):
 
+> **Insert the basic prompt video here.**
+
+```text
+Basic Prompt Video: hailuo-2_3_A_sunset_over_the_ocean_with_waves_gently_moving_toward_the_shore.-_generate_the-0
+```
+
 * Ocean visible with gentle wave motion.
 * Sunset lighting present.
 * Simple composition.
@@ -119,6 +125,12 @@ A sunset over the ocean with waves gently moving toward the shore.
 A breathtaking sunset over the vast ocean, with the golden sun slowly descending below the horizon. The sky is painted with vibrant shades of orange, pink, purple, and gold, reflecting beautifully on the calm water surface. Gentle waves roll toward the sandy shore, creating shimmering reflections. Soft clouds are illuminated by the warm evening light, producing a peaceful and serene atmosphere. Realistic cinematic style, high-definition quality, natural lighting, detailed water textures, smooth camera movement, ultra-realistic video, 4K resolution.
 
 ## Output Characteristics (Video 2):
+
+> **Insert the refined prompt video here.**
+
+```text
+Refined Prompt Video: hailuo-2_3_A_breathtaking_sunset_over_the_vast_ocean_with_the_golden_sun_slowly_descending_-0
+```
 
 * Golden sun visibly descending below the horizon.
 * Vibrant sunset colors throughout the sky.
