@@ -77,7 +77,7 @@ A sunset over the ocean with waves gently moving toward the shore.
 > **Insert the basic prompt video here.**
 
 ```text
-Basic Prompt Video: hailuo-2_3_A_sunset_over_the_ocean_with_waves_gently_moving_toward_the_shore.-_generate_the-0
+Basic Prompt Video: https://drive.google.com/file/d/1m1C7l4n-A5FFQzm6wNRKOuFTjGXkGr7e/view?usp=drivesdk
 ```
 
 * Ocean visible with gentle wave motion.
@@ -95,7 +95,7 @@ A breathtaking sunset over the vast ocean, with the golden sun slowly descending
 > **Insert the refined prompt video here.**
 
 ```text
-Refined Prompt Video: hailuo-2_3_A_breathtaking_sunset_over_the_vast_ocean_with_the_golden_sun_slowly_descending_-0
+Refined Prompt Video: https://drive.google.com/file/d/1v7uVf5pNvgUIHUHevsW9RIGiEX1QbLdS/view?usp=drivesdk
 ```
 
 * Golden sun visibly descending below the horizon.
