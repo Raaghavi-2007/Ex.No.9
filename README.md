@@ -1,4 +1,4 @@
-# Ex.No.9 Exploration of Prompting Techniques for Video Generation
+# Ex.No.9 Exploration of Prompting Techniques for Video and Image Generation
 
 # Date:
 # Reg. No.: 212225040321
