@@ -4,12 +4,12 @@
 # Reg. No.: 212225040321
 
 # Aim:
-To demonstrate the ability of text-to-Video generation tools to reproduce an existing Video by crafting precise prompts. The goal is to identify key elements within the Video and use these details to generate an Video as close as possible to the original.
+To demonstrate the ability of text-to-Video and Image generation tools to reproduce an existing Video and Image by crafting precise prompts. The goal is to identify key elements within the Video and Image, and use these details to generate an Video and Image as close as possible to the original.
 
 # Procedure:
 
-1.	Analyze the Generated Video:
-○	Examine the Video carefully, noting key elements such as:
+1.	Analyze the Generated Video and Image:
+○	Examine the Video and Image carefully, noting key elements such as:
 ■	Objects/Subjects (e.g., people, animals, objects)
 ■	Colors (e.g., dominant hues, contrasts)
 ■	Textures (e.g., smooth, rough, glossy)
@@ -18,7 +18,7 @@ To demonstrate the ability of text-to-Video generation tools to reproduce an exi
 ■	Composition (e.g., focal points, perspective)
 ■	Style (e.g., realistic, artistic, cartoonish)
 2.	Create the Basic Prompt:
-○	Write an initial, simple description of the Video. For example, if the Video shows a landscape, the prompt could be "A serene landscape with mountains and a river."
+○	Write an initial, simple description of the Video and Image. For example, if the Video and Image shows a landscape, the prompt could be "A serene landscape with mountains and a river."
 3.	Refine the Prompt with More Detail:
 ○	Add specific details such as colors, mood, and time of day. For example: "A serene landscape during sunset with purple mountains, a calm river reflecting the colors of the sky, and a few trees along the shore."
 4.	Identify Style and Artistic Influences:
