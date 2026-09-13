@@ -72,6 +72,7 @@ Website: DeepBrain
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated Videos and Images, along with any adjustments made to the prompt.
 
 ---
+# Video Generation:
 ## Original Video Description:
 
 A beautiful sunset scene over the ocean. The waves gently move toward the shore while the sun gradually descends below the horizon. The sky displays warm sunset colors, creating a peaceful and cinematic atmosphere.
@@ -158,7 +159,7 @@ Better matched the atmosphere and composition of the original video.
 By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
 
 ---
-
+# Image Generation:
 # Example 1: Night City Skyline
 ## Basic Prompt:
 
